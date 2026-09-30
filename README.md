@@ -1,4 +1,4 @@
-# Transitions
+# Transitions: A Generative Four-Season Tree
 **Transitions** is a generative animation that visualizes the passage of time through a single tree. Over a 60-second cycle, the tree moves through spring, summer, autumn, and winter. While the structure of the tree remains constant, elements such as leaves and snow are generated with randomized properties, making each cycle slightly different from the last.
 
 ## Project Demo
