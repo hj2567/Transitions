@@ -3,7 +3,7 @@
 
 ## Project Demo
 
-![Transitions Demo](images/transitions.gif)
+![Transitions Demo](media/Transitions_demo.mov)
 
 ## Recreation
 
